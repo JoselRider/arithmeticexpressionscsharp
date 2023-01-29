@@ -9,3 +9,5 @@ Can you help Kazama create the required expression? If multiple solutions exist,
  
  # Solution:
  Solution here was used few list an dictionary in recursive mode to build the rigth arithmetic expression.
+
+![image](https://user-images.githubusercontent.com/123856557/215352598-399ec6a5-03b1-4899-80d3-f497304e731d.png)
